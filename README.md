@@ -1,3 +1,3 @@
 # Expense-Calculator
 
-#Easy finance calculator
+#Easy Expense calculator
